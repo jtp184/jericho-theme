@@ -2,9 +2,6 @@
 
 Jericho is my personal theme for Sublime Text and Textmate, using colors I find aesthetically pleasing.
 
-https://singlecolorimage.com/get/CC362C/50x50
-
-
 - ![#CC362C](https://singlecolorimage.com/get/CC362C/15x15) `#CC362C`
 - ![#FFCC11](https://singlecolorimage.com/get/FFCC11/15x15) `#FFCC11`
 - ![#879E2F](https://singlecolorimage.com/get/879E2F/15x15) `#879E2F`
